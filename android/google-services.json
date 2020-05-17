@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "244056790965",
+    "firebase_url": "https://sparktask-7edd2.firebaseio.com",
+    "project_id": "sparktask-7edd2",
+    "storage_bucket": "sparktask-7edd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244056790965:android:1f80fa90b7ce72e271ebfc",
+        "android_client_info": {
+          "package_name": "com.example.spark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244056790965-5vnj74kjdghf11pddeipm2i5re8as1c3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0vUy4KgXyfeK9bd_U3EHDPHtqO6ybD24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244056790965-5vnj74kjdghf11pddeipm2i5re8as1c3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244056790965:android:f87f358cf84bd1c171ebfc",
+        "android_client_info": {
+          "package_name": "com.example.sparktask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244056790965-5vnj74kjdghf11pddeipm2i5re8as1c3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0vUy4KgXyfeK9bd_U3EHDPHtqO6ybD24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244056790965-5vnj74kjdghf11pddeipm2i5re8as1c3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

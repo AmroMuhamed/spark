@@ -1,0 +1,22 @@
+[
+  {
+    "name": "HP laptop",
+        "picture": "images/laptop.png",
+        "price": "11000",
+        "count":"0"
+  },
+  {
+    "name": "T-shirt",
+        "picture": "images/te.png",
+        "price": "240",
+        "count":"0"
+  }
+  ,
+  {
+    "name": "Zanissi Fridge",
+        "picture": "images/fr.png",
+        "price": "15000",
+        "count":"0"
+  }
+  
+  ]
